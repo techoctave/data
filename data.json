@@ -1,0 +1,6 @@
+{
+    data: {
+        expenses: 5000,
+        revenue: 9000
+    }
+}
