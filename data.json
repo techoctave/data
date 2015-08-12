@@ -1,6 +1,7 @@
 {
-    data: {
-        expenses: 5000,
-        revenue: 9000
+    "data": {
+        "expenses": 5000,
+        "revenue": 9500
     }
 }
+
